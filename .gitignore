@@ -1,0 +1,11 @@
+# Python bytecode and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local secrets and Kaggle API credentials
+.env
+.env.*
+!.env.example
+.kaggle/*.json

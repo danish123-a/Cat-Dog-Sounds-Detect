@@ -1,0 +1,6 @@
+torch
+torchaudio
+soundfile
+matplotlib
+pillow
+gradio>=6.0,<7.0
